@@ -1,4 +1,4 @@
-## 📸 SQL Results via MySQL Workbench
+## 📸 This is SQL Results via MySQL Workbench
 
 These screenshots show real query results from MySQL Workbench.
 
@@ -12,6 +12,7 @@ Highlights countries with the longest average movie runtime.
 
 ### 📆 Titles Released Per Year
 Shows content growth and release trends by year.
+
 <img src="screenshots/release-trends.jpg" width="600"/>
 
 ### 🌍 Top 10 Countries by Content
