@@ -1,6 +1,6 @@
 ## 📸 This is SQL Results via MySQL Workbench
 
-These screenshots show real query results from MySQL Workbench.
+These screenshots show query results from MySQL Workbench.
 
 ### 🎭 Top 10 Genres
 Shows which content categories appear most on Netflix.
