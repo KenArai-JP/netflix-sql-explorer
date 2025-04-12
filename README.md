@@ -50,3 +50,6 @@ Shows content growth and release trends by year.
 ### 🌍 Top 10 Countries by Content
 Displays which countries contribute the most to Netflix's catalog.
 <img src="screenshots/TOP_10_country.jpg" width="600"/>
+
+
+Source: [Kaggle - Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
