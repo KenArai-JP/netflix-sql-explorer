@@ -5,7 +5,7 @@ df = pd.read_csv("netflix_titles.csv", encoding="utf-8")
 
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",       
+    user="",       
     password="",   
     database="netflix_db"
 )
