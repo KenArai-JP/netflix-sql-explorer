@@ -1,17 +1,17 @@
-## 🧠 Project Summary
+## Project Summary
 
 This project explores Netflix content using  MySQL Workbench for querying and Python for data import.  
 It provides insights into genre popularity, movie durations, release year trends, and top countries producing content.
 
 
-## 📦 Tools Used
+## Tools Used
 
 - MySQL Workbench (for SQL analysis)
 - Python (to import CSV into MySQL)
 - Git & GitHub (for version control and sharing)
 - VS Code (as my development environment)
 
-## 🐍 Python Data Import
+## Python Data Import
 
 Python was used to:
 - Load `netflix_titles.csv`
@@ -20,7 +20,7 @@ Python was used to:
 
 📂 [SQL.py](SQL.py)
 
-## 🛢️ SQL Analysis via MySQL Workbench
+## SQL Analysis via MySQL Workbench
 
 Queries were run using MySQL Workbench, including:
 - Top 10 most common genres
